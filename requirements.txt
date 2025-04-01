@@ -1,0 +1,5 @@
+pyaudio==0.2.14
+keyboard==0.13.5
+google_cloud_speech==2.23.0
+python_dotenv==1.0.0
+openai==1.7.0

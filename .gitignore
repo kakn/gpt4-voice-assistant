@@ -1,0 +1,5 @@
+venv/
+.env
+data/practical-link-410619-651baa0933cd.json
+.DS_Store
+data/.DS_Store
